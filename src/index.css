@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+ margin: 0 auto;
+ width: 350px;
+ margin-top: 20px;
+ box-shadow: 0 0 10PX grey;
+ padding: 3px;
+}
+.main img{
+  width: 400px;
+  max-width: 100%;
+  
+}
